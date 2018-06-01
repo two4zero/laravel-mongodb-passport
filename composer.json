@@ -28,5 +28,12 @@
         "psr-4": {
             "Two4zero\\Mongodb\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Two4zero\\Mongodb\\MongodbPassportServiceProvider"
+            ]
+        }
     }
 }
