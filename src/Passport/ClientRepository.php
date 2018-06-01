@@ -1,6 +1,8 @@
 <?php
 
-namespace Laravel\Passport;
+namespace Two4zero\Mongodb\Passport;
+
+use Laravel\Passport\Passport;
 
 class ClientRepository
 {

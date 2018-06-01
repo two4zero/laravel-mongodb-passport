@@ -1,9 +1,10 @@
 <?php
 
-namespace Laravel\Passport;
+namespace Two4zero\Mongodb\Passport;
 
 use Carbon\Carbon;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model as Eloquent;
+use Laravel\Passport\Passport;
 
 class TokenRepository
 {
