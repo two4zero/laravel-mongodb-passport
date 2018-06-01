@@ -1,0 +1,9 @@
+{
+    "name": "two4zero/laravel-mongodb-passport",
+    "description": "laravel mongodb passport",
+    "require": {
+        "laravel/passport": "^6.0",
+        "jenssegers/mongodb": "^3.4"
+    },
+    "license": "MIT"
+}
